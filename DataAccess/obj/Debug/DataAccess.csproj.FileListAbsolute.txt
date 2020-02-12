@@ -1,0 +1,9 @@
+D:\Practice\Evolent Assignment\ContactManagerApi\DataAccess\bin\Debug\DataAccess.dll.config
+D:\Practice\Evolent Assignment\ContactManagerApi\DataAccess\bin\Debug\DataAccess.dll
+D:\Practice\Evolent Assignment\ContactManagerApi\DataAccess\bin\Debug\DataAccess.pdb
+D:\Practice\Evolent Assignment\ContactManagerApi\DataAccess\bin\Debug\EntityFramework.dll
+D:\Practice\Evolent Assignment\ContactManagerApi\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\Practice\Evolent Assignment\ContactManagerApi\DataAccess\bin\Debug\EntityFramework.xml
+D:\Practice\Evolent Assignment\ContactManagerApi\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\Practice\Evolent Assignment\ContactManagerApi\DataAccess\obj\Debug\DataAccess.dll
+D:\Practice\Evolent Assignment\ContactManagerApi\DataAccess\obj\Debug\DataAccess.pdb

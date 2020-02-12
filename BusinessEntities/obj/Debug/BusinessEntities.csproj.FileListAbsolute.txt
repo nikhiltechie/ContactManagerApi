@@ -1,0 +1,5 @@
+D:\Practice\Evolent Assignment\ContactManagerApi\BusinessEntities\bin\Debug\BusinessEntities.dll
+D:\Practice\Evolent Assignment\ContactManagerApi\BusinessEntities\bin\Debug\BusinessEntities.pdb
+D:\Practice\Evolent Assignment\ContactManagerApi\BusinessEntities\obj\Debug\BusinessEntities.dll
+D:\Practice\Evolent Assignment\ContactManagerApi\BusinessEntities\obj\Debug\BusinessEntities.pdb
+D:\Practice\Evolent Assignment\ContactManagerApi\BusinessEntities\obj\Debug\BusinessEntities.csprojResolveAssemblyReference.cache

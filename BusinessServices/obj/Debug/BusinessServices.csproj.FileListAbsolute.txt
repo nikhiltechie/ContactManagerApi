@@ -1,0 +1,16 @@
+D:\Practice\Evolent Assignment\ContactManagerApi\BusinessServices\obj\Debug\BusinessServices.csprojResolveAssemblyReference.cache
+D:\Practice\Evolent Assignment\ContactManagerApi\BusinessServices\bin\Debug\BusinessServices.dll
+D:\Practice\Evolent Assignment\ContactManagerApi\BusinessServices\bin\Debug\BusinessServices.pdb
+D:\Practice\Evolent Assignment\ContactManagerApi\BusinessServices\bin\Debug\BusinessEntities.dll
+D:\Practice\Evolent Assignment\ContactManagerApi\BusinessServices\bin\Debug\BusinessEntities.pdb
+D:\Practice\Evolent Assignment\ContactManagerApi\BusinessServices\obj\Debug\BusinessServices.dll
+D:\Practice\Evolent Assignment\ContactManagerApi\BusinessServices\obj\Debug\BusinessServices.pdb
+D:\Practice\Evolent Assignment\ContactManagerApi\BusinessServices\bin\Debug\BusinessServices.dll.config
+D:\Practice\Evolent Assignment\ContactManagerApi\BusinessServices\bin\Debug\AutoMapper.dll
+D:\Practice\Evolent Assignment\ContactManagerApi\BusinessServices\bin\Debug\DataAccess.dll
+D:\Practice\Evolent Assignment\ContactManagerApi\BusinessServices\bin\Debug\EntityFramework.dll
+D:\Practice\Evolent Assignment\ContactManagerApi\BusinessServices\bin\Debug\EntityFramework.SqlServer.dll
+D:\Practice\Evolent Assignment\ContactManagerApi\BusinessServices\bin\Debug\DataAccess.pdb
+D:\Practice\Evolent Assignment\ContactManagerApi\BusinessServices\bin\Debug\AutoMapper.xml
+D:\Practice\Evolent Assignment\ContactManagerApi\BusinessServices\bin\Debug\EntityFramework.xml
+D:\Practice\Evolent Assignment\ContactManagerApi\BusinessServices\bin\Debug\EntityFramework.SqlServer.xml
